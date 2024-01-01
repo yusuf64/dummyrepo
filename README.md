@@ -1,1 +1,3 @@
-Created to learn working of pull request
+# Basics of Javascript
+
+Checkout Master branch
